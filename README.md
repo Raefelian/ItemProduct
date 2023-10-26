@@ -13,6 +13,7 @@ This project is a simple Vue.js application that allows users to browse and purc
 ## Assets Project
 
 [Amelia Watson](https://kyou.id/items/126348/pop-up-parade-figure-watson-amelia-hololive-production)
+<br />
 [Gawr Gura](https://kyou.id/items/120166/pvc-figure-17-gawr-gura-hololive)
 ## Main Technologies and Components
 
