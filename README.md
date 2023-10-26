@@ -12,12 +12,12 @@ This project is a simple Vue.js application that allows users to browse and purc
 
 ## Assets Project
 
-https://kyou.id/items/126348/pop-up-parade-figure-watson-amelia-hololive-production
-
+[Amelia Watson](https://kyou.id/items/126348/pop-up-parade-figure-watson-amelia-hololive-production)
+[Gawr Gura](https://kyou.id/items/120166/pvc-figure-17-gawr-gura-hololive)
 ## Main Technologies and Components
 
 - Vue.js
-- HTML/CSS
+- HTML/CSS/JS
 
 ## Usage
 
@@ -33,6 +33,10 @@ We welcome contributions from the community. If you'd like to contribute, please
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+### Live Demo
+
+Check out the live demo [here](https://raefelian.github.io/VueItemProduct/).
 
 ## Acknowledgements
 
